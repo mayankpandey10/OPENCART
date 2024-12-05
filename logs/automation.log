@@ -1,0 +1,40 @@
+[18:41:26.188] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[18:41:26.536] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[18:41:26.922] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[18:41:26.925] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[18:41:28.154] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[18:41:28.200] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[18:41:31.029] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[18:41:32.554] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[18:41:57.297] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[18:41:57.586] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[18:41:57.950] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[18:41:57.952] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[18:41:59.367] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[18:41:59.452] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[18:42:01.817] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[18:42:02.950] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[18:46:53.906] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[18:46:53.996] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[18:46:54.378] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[18:46:54.387] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[18:46:55.527] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[18:46:55.563] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[18:46:58.806] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[18:46:59.806] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[14:00:25.193] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[14:00:25.299] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[14:00:25.827] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[14:00:25.829] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[14:00:27.388] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[14:00:27.467] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[14:00:30.152] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[14:00:31.574] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
+[11:12:13.508] [INFO ] testCases.TC01_AccRegTest - ***** Starting TC01_AccRegTest  *****
+[11:12:13.618] [INFO ] testCases.TC01_AccRegTest - Clicked on MyAccount LInk
+[11:12:14.018] [INFO ] testCases.TC01_AccRegTest - Clicked on Register LInk
+[11:12:14.020] [INFO ] testCases.TC01_AccRegTest - Providing customer details...
+[11:12:15.235] [INFO ] testCases.TC01_AccRegTest - Validating expected message....
+[11:12:15.268] [INFO ] testCases.TC01_AccRegTest - ***** Finished TC01_AccRegTest  *****
+[11:12:19.042] [INFO ] testCases.TC02_LoginTest - ***** Starting TC02_LoginTest ***** 
+[11:12:20.289] [INFO ] testCases.TC02_LoginTest - ***** Fineshed TC02_LoginTest ***** 
