@@ -26,12 +26,14 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
+import org.testng.asserts.SoftAssert;
 
 public class BaseClass {
 	
 public static WebDriver driver;
 public Logger logger;  //log4j
 public Properties p;
+public SoftAssert softAssert = new SoftAssert();
 
     @BeforeClass (groups={"sanity", "regression","Master",})
     @Parameters({"OS","browser"})

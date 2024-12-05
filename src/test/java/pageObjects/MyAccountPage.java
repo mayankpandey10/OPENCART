@@ -24,10 +24,15 @@ public class MyAccountPage extends BasePage {
 			return false;
 		}
 	}
-	
-	public void clicklogout()
+	public LogoutPage clicklogout()
 	{
-		Acclogout.click();
+		try {
+			Acclogout.click();
+            return new LogoutPage(driver);
+        } catch (Exception e) {
+            System.out.println("Unable to click Logout link: " + e.getMessage());
+            return null;
+        }
 	}
 	
 }
